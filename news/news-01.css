@@ -1,0 +1,44 @@
+/*news-content*/
+.news-content article p {
+  font-size: 14px;
+  color: #666666;
+  line-height: 24px;
+  text-indent: 24px;
+  margin-bottom: 12px;
+}
+.news-content article .p0 {
+  font-weight: bold;
+  color: #222;
+}
+.news-content article figure {
+  text-align: center;
+}
+.news-content figure h4 {
+  margin: 3px 0 20px;
+  font-weight: 600;
+  color: #333;
+  font-size: 13px;
+}
+.news-content .article-foot {
+  width: 940px;
+  padding-top: 15px;
+  margin-top: 80px;
+  border-top: 1px dashed #999999;
+  overflow: hidden;
+}
+.news-content .article-foot p:first-child {
+  float: left;
+  color: #999999;
+  font-size: 12px;
+}
+.news-content .article-foot p:last-child {
+  float: right;
+  color: #01a1ff;;
+  font-size: 12px;
+}
+.news-content .article-foot p:hover, .news-content .article-foot .act {
+  color: #01a1ff;;
+  font-size: 12px;
+}
+
+

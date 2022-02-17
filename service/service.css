@@ -1,0 +1,33 @@
+.service-content .main {
+  margin: 40px auto 0;
+}
+.service-content .main li {
+  margin-top: 20px;
+  overflow: hidden;
+}
+.service-content .main a {
+  width: 930px;
+  color: #666666;
+  font-size: 14px;
+  overflow: hidden;
+}
+.service-content .main span {
+  float: left;
+  width: 100%;
+  height: 6px;
+  border-bottom: 1px dashed #666;
+}
+.service-content .main .p1 {
+  float: left;
+  margin-left: -100%;
+  padding-right: 5px;
+  background-color: #fff;
+}
+.service-content .main .p2 {
+  float: left;
+  margin-left: -78px;
+  background-color: #fff;
+}
+
+
+
