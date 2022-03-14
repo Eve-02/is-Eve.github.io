@@ -1,0 +1,26 @@
+/*about-content*/
+.about-content .bottom {
+  width: 940px;
+  margin: 40px auto 0;
+  font-size: 14px;
+  line-height: 24px;
+  color: #666666;
+}
+.about-content .bottom .box {
+  overflow: hidden;
+}
+.about-content .bottom .box img {
+  float: left;
+  width: 560px;
+}
+.about-content .bottom .box p {
+  float: right;
+  width: 342px;
+
+}
+.about-content .bottom>p+p {
+  margin-top: 28px;
+  text-indent: 2em;
+}
+
+
